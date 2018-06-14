@@ -1,0 +1,15 @@
+---
+quit: quit, exit
+yes: yes, y
+no: no, n
+look: look, examine, inspect, view
+inventory: inventory, inv, carrying, equipment, gear
+use: use
+get: get, grab, acquire, take
+east: east, e
+west: west, w
+north: north, n
+south: south, s
+up: up, u
+down: down, d
+talk: talk, speak, converse

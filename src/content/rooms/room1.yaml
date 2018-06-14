@@ -1,0 +1,10 @@
+---
+id: room1
+description: 'Just a plain room.'
+exits:
+  - direction: north
+    description: 'A door leads outside.'
+    leadsTo: room2
+contents:
+- chair
+- coin
